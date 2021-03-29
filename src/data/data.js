@@ -4,7 +4,7 @@ export const productList = [
   // WOMEN COATS
   {
     id: 101,
-    img: '../img/coat-female.png',
+    img: '../img/coat-female5.webp',
     title: 'Athena',
     subtitle: 'Women Black Solid Longline Overcoat',
     description: 'Black solid longline overcoat, has a notched lapel, single-breasted with button closure, long sleeves, two flap pockets, an attached lining. Comes with a belt',
@@ -19,9 +19,9 @@ export const productList = [
   },
   {
     id: 102,
-    img: '../img/coat-female.png',
-    title: 'Womans coat two',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    img: '../img/coat-female3.webp',
+    title: 'Forever New',
+    subtitle: 'Trench Coat.',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quis deserunt. Aperiam minima facere dolorem saepe deleniti aspernatur amet molestiae doloremque, sed quam ullam cum veritatis corporis eius sequi magnam ipsum aliquid eum! Saepe dolorum debitis voluptate culpa veniam molestiae mollitia dignissimos velit reprehenderit voluptatibus numquam omnis aperiam, cum facere.',
     price: 260,
     inCart: false,
@@ -34,9 +34,9 @@ export const productList = [
   },
   {
     id: 103,
-    img: '../img/coat-female.png',
-    title: 'Womans coat three',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    img: '../img/coat-female6.webp',
+    title: 'Texco',
+    subtitle: 'Women long wrap coat.',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quis deserunt. Aperiam minima facere dolorem saepe deleniti aspernatur amet molestiae doloremque, sed quam ullam cum veritatis corporis eius sequi magnam ipsum aliquid eum! Saepe dolorum debitis voluptate culpa veniam molestiae mollitia dignissimos velit reprehenderit voluptatibus numquam omnis aperiam, cum facere.',
     price: 280,
     inCart: false,
@@ -50,7 +50,7 @@ export const productList = [
   {
     id: 104,
     img: '../img/coat-female.png',
-    title: 'Womans coat four',
+    title: 'Zaastra',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quis deserunt. Aperiam minima facere dolorem saepe deleniti aspernatur amet molestiae doloremque, sed quam ullam cum veritatis corporis eius sequi magnam ipsum aliquid eum! Saepe dolorum debitis voluptate culpa veniam molestiae mollitia dignissimos velit reprehenderit voluptatibus numquam omnis aperiam, cum facere.',
     price: 210,
@@ -65,7 +65,7 @@ export const productList = [
   {
     id: 105,
     img: '../img/coat-female.png',
-    title: 'Womans coat five',
+    title: 'Tokyo Talkies',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quis deserunt. Aperiam minima facere dolorem saepe deleniti aspernatur amet molestiae doloremque, sed quam ullam cum veritatis corporis eius sequi magnam ipsum aliquid eum! Saepe dolorum debitis voluptate culpa veniam molestiae mollitia dignissimos velit reprehenderit voluptatibus numquam omnis aperiam, cum facere.',
     price: 330,
@@ -80,7 +80,7 @@ export const productList = [
   {
     id: 106,
     img: '../img/coat-female.png',
-    title: 'Womans coat six',
+    title: 'Dress Berry',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quis deserunt. Aperiam minima facere dolorem saepe deleniti aspernatur amet molestiae doloremque, sed quam ullam cum veritatis corporis eius sequi magnam ipsum aliquid eum! Saepe dolorum debitis voluptate culpa veniam molestiae mollitia dignissimos velit reprehenderit voluptatibus numquam omnis aperiam, cum facere.',
     price: 440,
@@ -97,7 +97,7 @@ export const productList = [
   {
     id: 111,
     img: '../img/jacket-female.png',
-    title: 'Womans jacket one',
+    title: 'Womans jacket',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quis deserunt. Aperiam minima facere dolorem saepe deleniti aspernatur amet molestiae doloremque, sed quam ullam cum veritatis corporis eius sequi magnam ipsum aliquid eum! Saepe dolorum debitis voluptate culpa veniam molestiae mollitia dignissimos velit reprehenderit voluptatibus numquam omnis aperiam, cum facere.',
     price: 300,
@@ -112,7 +112,7 @@ export const productList = [
   {
     id: 112,
     img: '../img/jacket-female.png',
-    title: 'Womans jacket two',
+    title: 'Fab Alley',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quis deserunt. Aperiam minima facere dolorem saepe deleniti aspernatur amet molestiae doloremque, sed quam ullam cum veritatis corporis eius sequi magnam ipsum aliquid eum! Saepe dolorum debitis voluptate culpa veniam molestiae mollitia dignissimos velit reprehenderit voluptatibus numquam omnis aperiam, cum facere.',
     price: 290,
@@ -127,7 +127,7 @@ export const productList = [
   {
     id: 113,
     img: '../img/jacket-female.png',
-    title: 'Womans jacket three',
+    title: 'Color Cocktail',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quis deserunt. Aperiam minima facere dolorem saepe deleniti aspernatur amet molestiae doloremque, sed quam ullam cum veritatis corporis eius sequi magnam ipsum aliquid eum! Saepe dolorum debitis voluptate culpa veniam molestiae mollitia dignissimos velit reprehenderit voluptatibus numquam omnis aperiam, cum facere.',
     price: 280,
@@ -142,7 +142,7 @@ export const productList = [
   {
     id: 114,
     img: '../img/jacket-female.png',
-    title: 'Womans jacket four',
+    title: 'Fabnest',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quis deserunt. Aperiam minima facere dolorem saepe deleniti aspernatur amet molestiae doloremque, sed quam ullam cum veritatis corporis eius sequi magnam ipsum aliquid eum! Saepe dolorum debitis voluptate culpa veniam molestiae mollitia dignissimos velit reprehenderit voluptatibus numquam omnis aperiam, cum facere.',
     price: 260,
@@ -157,7 +157,7 @@ export const productList = [
   {
     id: 115,
     img: '../img/jacket-female.png',
-    title: 'Womans jacket five',
+    title: 'Fabnest Curve',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quis deserunt. Aperiam minima facere dolorem saepe deleniti aspernatur amet molestiae doloremque, sed quam ullam cum veritatis corporis eius sequi magnam ipsum aliquid eum! Saepe dolorum debitis voluptate culpa veniam molestiae mollitia dignissimos velit reprehenderit voluptatibus numquam omnis aperiam, cum facere.',
     price: 230,
@@ -172,7 +172,7 @@ export const productList = [
   {
     id: 116,
     img: '../img/jacket-female.png',
-    title: 'Womans jacket six',
+    title: 'Belle Fille',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, quis deserunt. Aperiam minima facere dolorem saepe deleniti aspernatur amet molestiae doloremque, sed quam ullam cum veritatis corporis eius sequi magnam ipsum aliquid eum! Saepe dolorum debitis voluptate culpa veniam molestiae mollitia dignissimos velit reprehenderit voluptatibus numquam omnis aperiam, cum facere.',
     price: 400,
